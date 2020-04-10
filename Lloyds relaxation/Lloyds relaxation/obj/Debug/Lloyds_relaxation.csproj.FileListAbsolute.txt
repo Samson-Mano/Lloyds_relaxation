@@ -1,0 +1,9 @@
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\obj\Debug\Lloyds_relaxation.Form1.resources
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\obj\Debug\Lloyds_relaxation.csproj.GenerateResource.cache
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\obj\Debug\Lloyds_relaxation.csprojAssemblyReference.cache
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\bin\Debug\Lloyds_relaxation.exe.config
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\bin\Debug\Lloyds_relaxation.exe
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\bin\Debug\Lloyds_relaxation.pdb
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\obj\Debug\Lloyds_relaxation.Properties.Resources.resources
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\obj\Debug\Lloyds_relaxation.exe
+C:\Users\Mighty_Owl\source\repos\Lloyds relaxation\Lloyds relaxation\obj\Debug\Lloyds_relaxation.pdb
